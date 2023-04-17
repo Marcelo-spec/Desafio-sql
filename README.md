@@ -1,0 +1,1 @@
+Project where database is created with queries in a sql file
